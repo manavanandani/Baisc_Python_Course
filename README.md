@@ -61,7 +61,7 @@ Welcome to the repository for the **Basic Python Course**! This repository conta
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/basic-python-course.git
+    git clone https://github.com/manavanandani/Basic_Python_Course.git
     ```
 
 2. **Navigate through the directories**:
